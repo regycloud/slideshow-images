@@ -6,8 +6,8 @@
   "main": "src/index.js",
   "dependencies": {
     "hero-slider": "2.0.1",
-    "react": "16.8.3",
-    "react-dom": "16.8.3",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
     "react-png-button": "1.0.4",
     "react-scripts": "2.1.8",
     "styled-components": "4.3.2"
